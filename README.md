@@ -1,0 +1,2 @@
+# Afirmaciones
+ App con adapter
